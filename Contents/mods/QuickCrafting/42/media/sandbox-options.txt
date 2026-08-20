@@ -1,0 +1,16 @@
+VERSION = 1,
+
+option QuickCrafting.Enabled = {
+    type = boolean, default = true,
+    page = QuickCrafting, translation = QuickCrafting.Enabled,
+}
+
+option QuickCrafting.TimePercent = {
+    type = double, min = 1.0, max = 100.0, default = 10.0,
+    page = QuickCrafting, translation = QuickCrafting.TimePercent,
+}
+
+option QuickCrafting.MaxSeconds = {
+    type = double, min = 0.0, max = 300.0, default = 0.0,
+    page = QuickCrafting, translation = QuickCrafting.MaxSeconds,
+}

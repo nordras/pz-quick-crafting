@@ -1,0 +1,11 @@
+name=Quick Crafting
+id=QuickCrafting
+poster=poster.png
+description=Scales down how long crafting takes.
+description=<BR>
+description=Hand crafting recipes run at a percentage of their normal duration, so a
+description=40 second recipe becomes 4 seconds at the default 10%. Recipes keep their
+description=relative cost instead of all collapsing to the same length.
+description=<BR>
+description=Configurable in the Sandbox options. Nothing else in the game is affected.
+author=igork

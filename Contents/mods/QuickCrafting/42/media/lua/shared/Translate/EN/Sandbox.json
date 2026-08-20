@@ -1,0 +1,9 @@
+{
+    "Sandbox_QuickCrafting": "Quick Crafting",
+    "Sandbox_QuickCrafting.Enabled": "Scale crafting duration",
+    "Sandbox_QuickCrafting.Enabled_tooltip": "Shortens hand crafting actions. Other timed actions are not affected.",
+    "Sandbox_QuickCrafting.TimePercent": "Crafting time (%% of normal)",
+    "Sandbox_QuickCrafting.TimePercent_tooltip": "Recipes run at this share of their normal duration. At 10, a 40 second recipe takes 4 seconds. At 100, nothing changes.",
+    "Sandbox_QuickCrafting.MaxSeconds": "Hard ceiling (seconds, 0 = none)",
+    "Sandbox_QuickCrafting.MaxSeconds_tooltip": "Optional limit applied after the scaling, for recipes that stay long even once shortened."
+}

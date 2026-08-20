@@ -1,0 +1,9 @@
+{
+    "Sandbox_QuickCrafting": "Fabrico Rápido",
+    "Sandbox_QuickCrafting.Enabled": "Reduzir a duração do fabrico",
+    "Sandbox_QuickCrafting.Enabled_tooltip": "Encurta os fabricos manuais. Outras ações não são afetadas.",
+    "Sandbox_QuickCrafting.TimePercent": "Tempo de fabrico (%% do normal)",
+    "Sandbox_QuickCrafting.TimePercent_tooltip": "As receitas demoram esta fração do tempo normal. Em 10, uma receita de 40 segundos demora 4. Em 100, nada muda.",
+    "Sandbox_QuickCrafting.MaxSeconds": "Teto rígido (segundos, 0 = nenhum)",
+    "Sandbox_QuickCrafting.MaxSeconds_tooltip": "Limite opcional aplicado depois da redução, para receitas que continuam longas mesmo encurtadas."
+}
